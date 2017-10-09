@@ -2,7 +2,7 @@
 
 *Predict collision severity based on several attributes*
 
-###Dependencies
+### Dependencies
 * Python
 * Scikit-Learn
 * Pandas
